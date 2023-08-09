@@ -3,14 +3,14 @@ const App = () => {
     <div style={{ padding: '0 30px' }}>
       <h1>레이아웃 시프트에 대해 알아봅시다.</h1>
       <img
-        src='/assets/img.jpeg'
+        src='/assets/img-300.jpg'
         alt='산책로'
         width={300}
         height={400}
         style={{ display: 'block' }}
       />
       <img
-        src='/assets/sam-900w.png'
+        src='/assets/sam-300w.png'
         alt='산책로'
         width={300}
         height={241}
@@ -30,7 +30,7 @@ const App = () => {
         ut laboriosam omnis?
       </p>
       <img
-        src='/assets/img.jpeg'
+        src='/assets/img-300.jpg'
         alt='산책로'
         width={300}
         height={400}

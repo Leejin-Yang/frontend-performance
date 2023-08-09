@@ -7,6 +7,6 @@ import AppShift from './App-shift';
 const root = createRoot(document.getElementById('root') as HTMLElement);
 root.render(
   <StrictMode>
-    <AppShift />
+    <App />
   </StrictMode>
 );
